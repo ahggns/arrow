@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/xtensor-stack/xsimd/archive/aeec9c872c8b475dedd7781336710f2dd2666cb2.tar.gz'
+tag='SHA256=0a841e6c8acf216150e4fc19fca8e29fbab9614b56ac7b96e56019264ca27b26'
